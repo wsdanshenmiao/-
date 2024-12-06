@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8087a93a0cbd15c4080cd5848a267f45, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  walkAccelerateTime: 0.05
+  runAccelerateTime: 0.1
+  jumpHeight: 3.8
+  jumpTime: 0.36
+  downTime: 0.36
+  walkSkySpeed: 6
+  runSkySpeed: 9
+  sprintDistance: 3.2
+  sprintCD: 0.8
+  sprintDurationTime: 0.2
+  doubleJumpHeight: 1.5
+  climpSpeed: 100
+  climpHorizontalSpeed: 1
+  runCoyoteTime: 0.05
+  walkCoyoteTime: 0.05
+  hasJumpInputBufferTime: 1
+  normalSize: 2.62
+  bigSize: 4
+  smallSize: 1.3
+  cubeSize: 2.62
